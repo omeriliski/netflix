@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+}
+#container{
+    background-image: url("./images/ZA-en-20191203-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    color: white;
+    padding:1px 100px;
+}
+#container2{
+    background-color:rgba(0, 0,0, 0.3);
+}
+.form{
+    background-color:rgba(0, 0,0, 0.8);
+    width: 420px;
+    margin: auto;
+    padding: 35px;
+}
+#title{
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+    padding-top: 15px;
+    font-size: 50px;
+    letter-spacing: 5px;
+    margin-bottom: 0px;
+    font-weight: bolder;
+}
+span{
+    color: red;
+}
+#description{
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Sorts Mill Goudy', serif;
+}
+#name,#email,#age,#dropdown{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 35px;
+    width: 400px;
+    border: none;
+    padding: 10px;
+}
+
+#feedback{
+    margin-top: 10px;
+    resize: none;
+}
+#submit{
+    background-color: red;
+    width: 150px;
+    height: 40px;
+    border-radius:50px;
+    color: white;
+    border:none;
+    font-size: 20px;
+    margin: 20px 100px 0px 120px;
+    cursor: pointer;
+}
+#submit:hover{
+    background-color: white;
+    color: red;
+}
+
