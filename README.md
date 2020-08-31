@@ -1,2 +1,2 @@
 # netflix
-A HTML, CSS Project 
+Netflix Project  
